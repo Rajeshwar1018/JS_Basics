@@ -27,9 +27,9 @@ console.log(work)
 
 //-----------JavaScript Object Notation---------------------//
 {
-    "name":"dinesh",
-    "age":"23",
-    "work":"unemployed"
+    "name"="dinesh",
+    "age"="23",
+    "work"="unemployed"
 }
 
 
