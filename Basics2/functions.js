@@ -25,7 +25,7 @@ function Addnumber2(num1, num2){
     return num1+num2   
 }
 const result2=Addnumber(26,34)
-// console.log(result2)
+console.log(result2)
 
 
 function IsloggedIn(username){
